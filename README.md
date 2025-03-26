@@ -67,3 +67,49 @@
         <h1>N. Sanjay</h1>
         <p>BCA Student</p>
     </div>
+
+    <div class="nav">
+        <a href="#about">About</a>
+        <a href="#education">Education</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#resume">Resume</a>
+    </div>
+
+    <div class="container">
+        <div class="section" id="about">
+            <h2>About Me</h2>
+            <p>I am a student studying BCA at Prince Shri Venkateshwara Arts and Science.</p>
+        </div>
+
+        <div class="section" id="education">
+            <h2>Education</h2>
+            <p>Bachelor of Computer Applications (BCA)</p>
+        </div>
+
+        <div class="section" id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Python</li>
+                <li>Java</li>
+                <li>C++</li>
+            </ul>
+        </div>
+
+        <div class="section" id="projects">
+            <h2>Projects</h2>
+            <p>No projects listed yet.</p>
+        </div>
+
+        <div class="section" id="resume">
+            <h2>Resume</h2>
+            <a href="#" class="resume-btn">Download CV</a>
+        </div>
+    </div>
+
+    <div class="footer">
+        © 2025 N. Sanjay
+    </div>
+
+</body>
+</html>
